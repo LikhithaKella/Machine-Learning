@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # Machine Learning Projects 
-=======
-
->>>>>>> 85fcbad27c6ffea9cd976ec0f779e1e562cd4854
+Welcome to my Machine Learning projects repository! 
+This repository contains a collection of Jupyter Notebook files (.ipynb) that cover various machine learning topics.
+Each notebook includes detailed explanations, code implementations, and visualizations to help you understand different concepts in machine learning.
